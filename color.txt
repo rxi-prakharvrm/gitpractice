@@ -1,4 +1,4 @@
--- RGB Colors --
+-- RGB Colours --
 
 Red
 Green

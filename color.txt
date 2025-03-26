@@ -1,12 +1,17 @@
--- RGB Colors --
+-- RGB Colours --
 
 Red
 Green
 Blue
 
--- My favourite colors --
+-- My favourite Colors --
 
 Olive
 Bieze
 Cyan
 Orange
+
+-- Universal Colors --
+
+White
+Black

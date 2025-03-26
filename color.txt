@@ -4,8 +4,13 @@ Red
 Green
 Blue
 
--- My favourite colors --
+-- My favourite Colors --
 
 Olive
 Bieze
 Orange
+
+-- Universal Colors --
+
+White
+Black

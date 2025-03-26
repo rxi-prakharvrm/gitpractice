@@ -1,3 +1,5 @@
+-- RGB Colours --
+
 Red
 Green
 Blue

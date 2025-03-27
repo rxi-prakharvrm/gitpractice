@@ -14,3 +14,7 @@ Orange
 
 White
 Black
+
+-- Glass Color --
+
+Transparent

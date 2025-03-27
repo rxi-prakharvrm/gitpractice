@@ -18,3 +18,12 @@ Black
 -- Glass Color --
 
 Transparent
+
+-- Light Colors --
+
+Sky Blue
+Light Green
+
+-- Color of Water --
+
+Transparent

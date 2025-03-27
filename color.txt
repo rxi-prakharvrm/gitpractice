@@ -15,6 +15,7 @@ Orange
 White
 Black
 
--- Glass Color --
+-- Light Colors --
 
-Transparent
+Sky Blue
+Light Green

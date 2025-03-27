@@ -19,3 +19,7 @@ Black
 
 Sky Blue
 Light Green
+
+-- Color of Water --
+
+Transparent
